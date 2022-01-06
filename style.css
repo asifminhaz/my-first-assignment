@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .blue{
     color: blue;
 }
@@ -18,6 +21,8 @@
     text-decoration: none;
     background-color: orangered;
     padding: 10px 40px;
+    font-weight: 700;
+    color: black;
 }
 .add-border{
     border-left: orangered solid;
@@ -52,4 +57,22 @@ background-color: rgb(72, 131, 131);
 }
 .text{
     text-align: center;
+}
+.another-width img{
+    width: 80%;
+}
+.develope-padding{
+  font-size: larger;
+  margin-right: 20px;
+    
+}
+.circle{
+    background-image: ;
+}
+.background-item{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 180px ;
+
 }
