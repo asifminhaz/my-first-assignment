@@ -1,7 +1,8 @@
 .blue{
-    color: blue
+    color: blue;
 }
-section{
+
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -21,4 +22,34 @@ section{
 .add-border{
     border-left: orangered solid;
     padding-left: 1%;
+}
+.color{
+    color: blue;
+    text-align: center;
+    
+}
+.illustrator{
+    width: 20%;
+}
+.add-backgound{
+    border: cornflowerblue;
+}
+.about-width{
+    width: 50%;
+    border-style: hidden;
+    border-radius: 20px;
+    margin: 20px;
+    padding-left: 30px;
+}
+.background{
+    background-color:rgb(204, 109, 131);
+}
+.vission-background{
+    background-color: darkkhaki;
+}
+.goals-background{
+background-color: rgb(72, 131, 131);
+}
+.text{
+    text-align: center;
 }
