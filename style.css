@@ -82,3 +82,36 @@ background-color: rgb(72, 131, 131);
     background-position: right;
     background-size: 200px;
 }
+.last-part{
+    text-align: center;
+}
+.add-bold{
+    font-size: larger;
+    font-weight: 700;
+}
+.handshake-added{
+background-image: url(images/shapes/shape-8.png);
+background-repeat: no-repeat;
+background-size: 750px;
+background-position: right;
+}
+.deep{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+
+}
+.footer-content{
+    text-align: center;
+    font-style: italic;
+}
+#deep{
+    color: red;
+}
