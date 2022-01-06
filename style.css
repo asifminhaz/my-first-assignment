@@ -76,3 +76,9 @@ background-color: rgb(72, 131, 131);
     background-size: 180px ;
 
 }
+.global-background{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
+}
